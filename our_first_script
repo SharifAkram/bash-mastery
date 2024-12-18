@@ -2,7 +2,7 @@
 
 # Author: Sharif Akram
 # Date Created: 12/16/2024
-# Last Modified: 12/16/2024
+# Last Modified: 12/18/2024
 
 # Description
 # Prints "This my first script" to the terminal
@@ -10,7 +10,7 @@
 # Usage
 # our_first_script
 
-echo "This is my first script"
+echo "This is my first  script"
 exit 0
 
 
