@@ -1,5 +1,5 @@
 #!/bin/bash
 
-student="Sharif"
+student="Kerry"
 echo "Hello ${student}"
 
